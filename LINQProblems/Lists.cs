@@ -8,9 +8,12 @@ namespace LINQProblems
 {
     class Lists
     {
-        public Lists()
+        public List<Names> names = new List<Names>();
+        public void AddNamesToList(Names name)
         {
-
+            names.Add(name);
         }
+
+
     }
 }
