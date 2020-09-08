@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace LINQProblems
 {
-    class Program
+    class Lists
     {
-        static void Main(string[] args)
-        {   
-            
-        }
     }
 }
