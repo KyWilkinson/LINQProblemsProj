@@ -8,5 +8,9 @@ namespace LINQProblems
 {
     class Lists
     {
+        public Lists()
+        {
+
+        }
     }
 }
